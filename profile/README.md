@@ -1,3 +1,5 @@
+<img src="concord-logo.png" alt="Concord logo, a gold orbit on a blue roundel" width="120" height="120">
+
 # Concord
 
 **One interface. Every input.**
